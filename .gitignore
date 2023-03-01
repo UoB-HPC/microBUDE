@@ -3,7 +3,6 @@ bude_*
 bude-*
 
 *.o
-*.out
 energies.dat
 
 *.lst
